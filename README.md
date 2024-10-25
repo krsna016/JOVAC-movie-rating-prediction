@@ -1,4 +1,4 @@
-# Movie Rating Prediction with Python
+# Movie Rating Prediction (JOVAC)
 <img src="banner.png" alt="Description of the image" width="700" height="300">
 
 ## Table of Contents
